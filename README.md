@@ -60,6 +60,8 @@ Then open:
 - Pomodoro durations are hardcoded in the source (`25 min` work, `5 min` break).
 - Design language and UI copy are customized around the "VOID.TERMINAL" theme.
 
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-04-20 121243" src="https://github.com/user-attachments/assets/2a1e0504-429e-48cc-8556-7484a55201ff" />
+
 ## License
 
 This project may currently be intended for private/internal use. If you want to open-source it, you can update this section with `MIT` (or your preferred license).
