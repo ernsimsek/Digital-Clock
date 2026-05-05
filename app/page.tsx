@@ -235,7 +235,7 @@ export default function CyberClock() {
               className={`tab-btn${tab === t ? ' active' : ''}`}
               onClick={() => setTab(t)}
             >
-              {t === 'clock' ? '// CLOCK' : t === 'stopwatch' ? '// CHRONOMETER' : '// POMODORO'}
+              {t === 'clock' ? '// CLOCK' : t === 'stopwatch' ? '// CHRONO' : '// POMODORO'}
             </button>
           ))}
         </nav>
